@@ -47,12 +47,6 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link text-dark" href="products.html">Product</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" href="category.html">Category</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link text-dark" href="aboutus.html">About Us</a>
 
                     </li>
@@ -76,8 +70,8 @@
         <i class="fas fa-check-circle icon"></i>
         <div class="card-body text-center">
             <div class="main">
-                <h1>Transaction SuccessFull</h1>
-                <h2>Thank you for using GRIP Application</h2>
+                <h1>Transaction SuccessFul</h1>
+                <h2>Thank you for using our Bank!</h2>
                
             </div>
             <div class="text-center pb-2">
